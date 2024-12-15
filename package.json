@@ -28,7 +28,7 @@
 		"i18next-fs-backend": "^1.1.5",
 		"js-yaml": "^4.1.0",
 		"mongoose": "^6.2.4",
-		"sourcebin": "^4.3.5"
+		"sourcebin": "^5.0.0"
 	},
 	"devDependencies": {
 		"@types/i18next-fs-backend": "^1.1.2",
